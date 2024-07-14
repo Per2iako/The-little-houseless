@@ -13,4 +13,4 @@ playing game) เกมประเภทที่ผู้เล่นต้อ
 ![IMG_3940](https://github.com/user-attachments/assets/d7dfb815-1d8d-4fb2-8200-167419cb71b2)
 
 
-# [Alpha v0.01 game](https://github.com/Per2iako/The-little-houseless/archive/refs/tags/Game.zip)
+# [Game v0.01](https://github.com/Per2iako/The-little-houseless/archive/refs/tags/Game.zip)

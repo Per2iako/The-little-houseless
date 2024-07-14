@@ -15,4 +15,4 @@ playing game) เกมประเภทที่ผู้เล่นต้อ
 
 ---
 
-# [Game v1.0](https://github.com/Per2iako/The-little-houseless/releases/download/v1.0/The.little.houseless.v1.0.rar)
+# [Game v1.0](https://github.com/Per2iako/)
